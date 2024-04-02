@@ -2,6 +2,8 @@
 
 > noraj's PKGBUILDs repository
 
+A personal ArchLinux user repository.
+
 ## Usage
 
 ```bash
