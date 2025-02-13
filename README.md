@@ -10,7 +10,8 @@ A personal ArchLinux user repository.
 # Clone the repository
 git clone https://github.com/noraj/npr && cd npr
 
-# Install with pikaur
+# Install with AUR helper
+yay -Bi packages/ba-pentest-commons-meta/
 pikaur -P packages/ba-pentest-commons-meta/PKGBUILD
 
 # or Install with makepkg
